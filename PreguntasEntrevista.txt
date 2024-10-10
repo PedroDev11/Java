@@ -1,0 +1,5 @@
+1.- Sólido entendimiento de los conceptos básicos de Java, como POO (Programación Orientada a Objetos), colecciones, excepciones, y flujos de entrada/salida
+2.- Algoritmos y estructuras de datos. -> Enfócate en estructuras de datos como arrays, listas enlazadas, pilas, colas, árboles, y grafos.
+3.- Patrones de diseño más comunes, como Singleton, Factory, Observer, y Decorator. Cuando y como utilizarlos
+4.- ¿Qué es un HashMap y cómo funciona internamente?
+5.- Explica el principio SOLID en programación orientada a objetos.

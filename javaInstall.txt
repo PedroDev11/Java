@@ -1,0 +1,7 @@
+Primero debemos descargar java desde ORACLE
+Después se crea una variable del sistema:
+JAVA_HOME
+C:\Program Files\Java\jdk-21
+
+Para comprobar si es que esta instalado correctamente, en un cmd escribir:
+java --version

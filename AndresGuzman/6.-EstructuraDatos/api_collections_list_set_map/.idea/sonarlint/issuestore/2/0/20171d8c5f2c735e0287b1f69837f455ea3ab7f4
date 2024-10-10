@@ -1,0 +1,16 @@
+
+…
+java:S1192"JDefine a constant instead of duplicating this literal ", size = " 3 times.(ù”‘YJ$aa94a051-38ac-4a3d-b963-7b8b38ace280
+e	java:S106"+Replace this use of System.out by a logger.(ù”‘YJ$8eabce73-7d64-480d-8ec9-6b12d5f2561d
+k	java:S106"+Replace this use of System.out by a logger.(Šà øÿÿÿÿJ$4bd5f06a-0036-43a7-9e5f-1246ad3408a0
+e	java:S106"+Replace this use of System.out by a logger.(ù”‘YJ$30d0e04c-e190-4e05-b743-a6d9113b926c
+e	java:S106"+Replace this use of System.out by a logger.(ù”‘YJ$ca5fab86-6e39-4737-8cb7-a1879e826a4c
+|	java:S125"<This block of commented-out lines of code should be removed.(ÜÓéˆüÿÿÿÿJ$3f2f9d98-ca17-417e-99dd-b8c87e0881a7
+k	java:S106"+Replace this use of System.out by a logger.(èÕáóùÿÿÿÿJ$ed642051-df64-49f9-874a-3cbb80bee8d9
+f
+java:S1197 "*Move the array designators [] to the type.(ÓÊÆˆJ$c469fbbc-e114-43ce-94a5-b0f543e4f8f1
+f	java:S106""+Replace this use of System.out by a logger.(×ŠŠàJ$8ccdd1ad-bef6-43f0-a4e2-6c94c0cb40e2
+l
+java:S1128"1Remove this unused import 'java.util.LinkedList'.(»Äğ1J$274d06b4-c4d3-4f46-b4d2-7e67e35aa066
+|
+java:S1128	";Remove this unused import 'java.util.Comparator.comparing'.(ÂòãëúÿÿÿÿJ$f2f3bdfc-a907-4870-83f7-415405023507
